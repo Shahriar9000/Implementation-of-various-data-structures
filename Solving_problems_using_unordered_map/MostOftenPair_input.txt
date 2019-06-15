@@ -1,0 +1,15 @@
+Str1	Str2
+Str3	Str2
+Str3	Str2
+Str2	Str1
+Str2	Str3
+Str4	Str2
+Str4	Str2
+Str4	Str2
+Str4	Str2
+Str4	Str2
+Str4	Str2
+Str8	Str9
+Str8	Str9
+Str8	Str9
+
